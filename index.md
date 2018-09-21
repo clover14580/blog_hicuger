@@ -18,14 +18,14 @@ layout: default
 		<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-				<h3>Sapien veroeros</h3>
+				<h3>人事部</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-rocket"></span>
 			<div class="content">
-				<h3>Quam lorem ipsum</h3>
+				<h3>技术部</h3>
 				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
 			</div>
 		</article>
