@@ -1,17 +1,17 @@
 # Site settings
-title: Editorial
+title: Hi,CUGer!
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+email: bestclover14580@foxmail.com
+description: just a simple website for cugers.
 baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: CloverYang
+street_address: 洪山区鲁磨路388号
+city: 武汉
+state: CN
+zip_code: 430003
+country: China
+phone: 17802715792
 
 # Social settings
 500px_url:
