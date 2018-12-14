@@ -105,5 +105,6 @@ layout: default
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
+		<p align="center">不要再滑啦~已经是最底部啦！</p>
 	</div>
 </section>
